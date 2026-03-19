@@ -1,4 +1,4 @@
-<h1 align="center">Katsume / Shogo Murakami</h1>
+<h1 align="center">Katsume</h1>
 <p align="center">
 Water × Sound × Interaction × System Design
 </p>
