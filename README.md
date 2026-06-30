@@ -1,4 +1,4 @@
-<h1 align="center">Hydral</h1>
+<h1 align="center">KATUME</h1>
 <p align="center">
 Water × Sound × Interaction × System Design
 </p>
